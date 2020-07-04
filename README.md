@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+BMI Calculator
+
+Body Mass Index Calculator inspired by the beautiful designs made by Ruben Vaalt.
+It will be a multi screen app with simple functionality but full-on custom styling.
+
+![](bmi-calc-demo.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
